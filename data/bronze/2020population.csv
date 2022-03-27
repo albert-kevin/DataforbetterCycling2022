@@ -1,0 +1,85 @@
+Rank,Municipality,Population,Population,Population,Population,Population,Province,Region
+Rank,Municipality,1990,2000,2010,2015,2020,Province,Region
+1.,Antwerp,"470,349","446,525","483,505","513,570","1,529,247",Antwerp,Flanders
+2.,Ghent,"230,543","224,180","243,366","253,266","263,927",East Flanders,Flanders
+3.,Charleroi,"206,779","200,827","202,598","202,480","202,746",Hainaut,Wallonia
+4.,Liège,"196,825","185,639","192,504","195,968","197,217",Liège,Wallonia
+5.,Brussels,"136,706","133,859","157,673","175,534","185,103",—,Brussels-Capital Region
+6.,Schaerbeek,"104,768","105,692","121,232","131,030","132,799",—,Brussels-Capital Region
+7.,Anderlecht,"89,231","87,812","104,647","116,332","120,887",—,Brussels-Capital Region
+8.,Bruges,"117,460","116,246","116,741","117,886","118,656",West Flanders,Flanders
+9.,Namur,"103,466","105,419","108,950","110,646","111,432",Namur,Wallonia
+10.,Leuven,"85,193","88,014","95,463","98,376","102,275",Flemish Brabant,Flanders
+11.,Sint-Jans-Molenbeek,"68,904","71,219","88,181","95,576","97,979",—,Brussels-Capital Region
+12.,Mons,"91,867","90,935","91,759","95,231","95,887",Hainaut,Wallonia
+13.,Ixelles,"73,128","73,174","80,183","84,754","87,632",—,Brussels-Capital Region
+14.,Aalst,"76,245","76,313","80,043","83,709","87,332",East Flanders,Flanders
+15.,Mechelen,"75,622","75,438","80,940","83,975","86,921",Antwerp,Flanders
+16.,Uccle,"75,402","74,221","77,589","81,280","83,980",—,Brussels-Capital Region
+17.,La Louvière,"76,138","76,568","78,071","80,375","81,138",Hainaut,Wallonia
+18.,Hasselt,"66,094","68,085","73,067","76,331","78,714",Limburg,Flanders
+19.,Sint-Niklaas,"67,979","68,290","71,806","74,289","78,531",East Flanders,Flanders
+20.,Kortrijk,"76,081","74,790","74,911","75,219","77,109",West Flanders,Flanders
+21.,Ostend,"68,527","67,279","69,064","70,460","71,647",West Flanders,Flanders
+22.,Tournai,"67,767","67,379","69,043","69,756","69,083",Hainaut,Wallonia
+23.,Genk,"61,343","62,842","64,757","65,463","66,447",Limburg,Flanders
+24.,Seraing,"60,952","60,557","62,698","63,972","64,192",Liège,Wallonia
+25.,Roeselare,"52,512","54,199","57,432","60,386","63,478",West Flanders,Flanders
+26.,Mouscron,"53,545","52,492","54,651","57,068","58,767",Hainaut,Wallonia
+27.,Woluwe-Saint-Lambert,"48,141","46,528","50,749","54,022","57,712",—,Brussels-Capital Region
+28.,Forest,"47,178","45,555","50,258","55,012","56,581",—,Brussels-Capital Region
+29.,Verviers,"53,657","53,148","55,253","55,356","55,290",Liège,Wallonia
+30.,Jette,"38,769","39,749","46,818","50,724","52,728",—,Brussels-Capital Region
+31.,Saint-Gilles,"43,579","42,458","46,981","50,472","49,678",—,Brussels-Capital Region
+32.,Beveren,"42,163","44,977","46,299","47,423","49,047",East Flanders,Flanders
+33.,Etterbeek,"39,641","39,404","44,352","46,773","48,473",—,Brussels-Capital Region
+34.,Beringen,"36,289","39,261","42,758","44,885","46,598",Limburg,Flanders
+35.,Dendermonde,"42,470","43,137","44,095","44,938","45,870",East Flanders,Flanders
+36.,Vilvoorde,"32,942","34,982","39,628","42,418","45,495",Flemish Brabant,Flanders
+37.,Turnhout,"37,669","38,596","40,763","42,637","45,280",Antwerp,Flanders
+38.,Deinze,"36,242","38,552","41,083","42,419","43,580",East Flanders,Flanders
+39.,Dilbeek,"36,647","37,722","39,998","41,234","43,423",Flemish Brabant,Flanders
+40.,Heist-op-den-Berg,"35,238","37,233","39,866","41,812","42,950",Antwerp,Flanders
+41.,Evere,"29,685","31,348","35,803","38,448","42,656",—,Brussels-Capital Region
+42.,Woluwe-Saint-Pierre,"38,396","37,922","39,077","41,077","42,119",—,Brussels-Capital Region
+43.,Lokeren,"34,873","36,458","39,174","40,494","42,044",East Flanders,Flanders
+44.,Geel,"32,367","33,677","36,990","38,837","40,709",Antwerp,Flanders
+45.,Sint-Truiden,"37,027","37,147","39,309","39,957","40,672",Limburg,Flanders
+46.,Herstal,"36,356","36,292","38,219","39,365","40,190",Liège,Wallonia
+47.,Halle,"32,574","33,655","36,000","38,023","40,182",Flemish Brabant,Flanders
+48.,Braine-l'Alleud,"31,989","35,259","38,303","39,756","40,170",Walloon Brabant,Wallonia
+49.,Ninove,"33,318","34,559","36,675","37,965","39,251",East Flanders,Flanders
+50.,Maasmechelen,"33,833","35,430","36,937","37,609","38,933",Limburg,Flanders
+51.,Waregem,"34,555","35,839","36,306","37,341","38,350",West Flanders,Flanders
+52.,Brasschaat,"34,540","37,138","36,949","37,480","38,223",Antwerp,Flanders
+53.,Grimbergen,"31,944","32,930","35,169","36,558","37,972",Flemish Brabant,Flanders
+54.,Mol,"30,270","31,683","34,114","35,685","37,022",Antwerp,Flanders
+55.,Lier,"30,918","32,191","33,930","34,652","36,646",Antwerp,Flanders
+56.,Châtelet,"36,656","35,452","36,050","36,439","35,668",Hainaut,Wallonia
+57.,Evergem,"29,407","31,155","33,112","34,485","35,628",East Flanders,Flanders
+58.,Tienen,"31,669","31,479","32,552","33,950","35,293",Flemish Brabant,Flanders
+59.,Ypres,"35,231","35,071","34,962","34,971","34,995",West Flanders,Flanders
+60.,Zaventem,"25,856","26,901","30,446","32,678","34,782",Flemish Brabant,Flanders
+61.,Wavre,"28,126","31,033","32,910","33,604","34,748",Walloon Brabant,Wallonia
+62.,Sint-Pieters-Leeuw,"28,697","30,013","31,572","33,270","34,621",Flemish Brabant,Flanders
+63.,Auderghem,"29,143","28,804","30,811","32,835","34,404",—,Brussels-Capital Region
+64.,Schoten,"31,037","32,733","33,342","34,016","34,316",Antwerp,Flanders
+65.,Lommel,"27,427","30,433","32,917","33,852","34,245",Limburg,Flanders
+66.,Heusden-Zolder,"28,589","30,105","31,526","32,774","33,892",Limburg,Flanders
+67.,Geraardsbergen,"30,219","30,945","32,033","32,981","33,649",East Flanders,Flanders
+68.,Menen,"32,726","32,028","32,530","32,905","33,540",West Flanders,Flanders
+69.,Asse,"27,047","27,931","30,228","32,069","33,505",Flemish Brabant,Flanders
+70.,Binche,"32,828","32,190","32,749","33,297","33,448",Hainaut,Wallonia
+71.,Knokke-Heist,"31,541","33,148","33,825","33,452","33,089",West Flanders,Flanders
+72.,Pelt,"25,439","27,911","30,502","31,684","33,076",Limburg,Flanders
+73.,Bilzen,"27,079","29,335","30,882","31,710","32,477",Limburg,Flanders
+74.,Oudenaarde,"27,055","27,788","29,702","30,788","31,612",East Flanders,Flanders
+75.,Wevelgem,"30,462","31,374","30,975","31,307","31,579",West Flanders,Flanders
+76.,Ottignies-Louvain-la-Neuve,"22,194","27,380","30,721","31,261","31,316",Walloon Brabant,Wallonia
+77.,Courcelles,"29,336","29,706","30,218","30,960","31,179",Hainaut,Wallonia
+78.,Tongeren,"29,478","29,723","30,042","30,677","31,142",Limburg,Flanders
+79.,Houthalen-Helchteren,"27,062","29,215","30,126","30,666","30,550",Limburg,Flanders
+80.,Waterloo,"27,424","28,986","29,598","29,568","30,376",Walloon Brabant,Wallonia
+81.,Temse,"23,844","25,533","28,147","29,182","30,196",East Flanders,Flanders
+82.,Aarschot,"26,179","27,495","28,405","29,288","30,183",Flemish Brabant,Flanders
+83.,Arlon,"23,325","24,791","27,763","29,016","30,081",Luxembourg,Wallonia
